@@ -20,7 +20,7 @@ def palindrome(word_to_be_checked):
 
 palindrome(word_to_be_checked = 'Potop')
 '''
-
+'''
 word_to_be_checked = 'Potop'
 w = ''
 
@@ -41,5 +41,6 @@ if (word_to_be_checked == w):
     print('True')
 else:
     print('False')
+'''
 
 
