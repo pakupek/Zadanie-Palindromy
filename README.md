@@ -24,7 +24,7 @@ Mam nadzieje że jest to w miare zrozumiałe :).
 
 
 ENG:
-##The Palindromes Quest
+The Palindromes Quest
 Your task will be to write a function that checks if a given word is a palindrome.
 A palindrome is a word that sounds the same when read from left to right and right to left. Examples include "canoe" and "deluge".
 Program a function that takes one string argument and returns a boolean: True / False value that tells you whether the given text is a palindrome.
